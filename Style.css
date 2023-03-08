@@ -1,0 +1,27 @@
+
+body
+{
+
+    background-image: url("bitcoin.jpg") ;
+    background-repeat: no-repeat;
+   font-size: 1200px;
+    width: -145px
+   
+}
+.parent{
+
+    width: -900px;
+    height: 500px;
+}
+.image1{
+
+    position: relative;
+    top:-145px;
+    left: 450px
+}
+.image2{
+    position: relative;
+    top: -300px;
+    left : -20px
+
+}
